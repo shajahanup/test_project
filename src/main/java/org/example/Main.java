@@ -10,6 +10,7 @@ public class Main {
 
         Student student1 = new Student2();
 
+        System.out.println("");
 //        if(student1 instanceof Student1) {
             Student1 hkghg = (Student1) student1;
 //        }
